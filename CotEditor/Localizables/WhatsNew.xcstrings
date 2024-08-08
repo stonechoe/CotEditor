@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "（App Store版でのみ有効）"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(App Store 버전에서만 가능)"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "完全なリリースノートp"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체 릴리즈 노트"
           }
         }
       }
@@ -87,6 +99,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "続ける"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계속"
           }
         },
         "nl" : {
@@ -147,6 +165,12 @@
             "state" : "translated",
             "value" : "開発者にコーヒーを送ってCotEditorプロジェクトをサポート。"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor"
+          }
         }
       }
     },
@@ -175,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "寄付"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후원"
           }
         }
       }
@@ -205,6 +235,12 @@
             "state" : "translated",
             "value" : "新しいmacOSを完全にサポートしています。"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새 macOS 15에서 완벽하게 작동합니다."
+          }
         }
       }
     },
@@ -234,6 +270,12 @@
             "state" : "translated",
             "value" : "macOS 15サポート"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS 15 지원"
+          }
         }
       }
     },
@@ -255,6 +297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "寄付設定を開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후원 설정 열기"
           }
         }
       }
@@ -278,6 +326,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "**CotEditor %@**の新機能"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**CotEditor %@**의 변경사항"
           }
         }
       }
