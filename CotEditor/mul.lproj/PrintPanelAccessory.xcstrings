@@ -53,6 +53,12 @@
             "value" : "背景をプリント"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배경 프린트"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フォントサイズ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서체 크기"
           }
         },
         "nl" : {
@@ -221,6 +233,12 @@
             "value" : "ヘッダ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "머리말"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -303,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ヘッダとフッタをプリント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "머리말 및 꼬리말 프린트"
           }
         },
         "nl" : {
@@ -389,6 +413,12 @@
             "value" : "行番号をプリント"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 번호 프린트"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -473,6 +503,12 @@
             "value" : "不可視文字をプリント"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보이지 않는 문자 프린트"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -552,6 +588,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ""
@@ -641,6 +683,12 @@
             "value" : "フッタ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "꼬리말"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -725,6 +773,12 @@
             "value" : "白黒"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "흑백"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -804,6 +858,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ""
@@ -893,6 +953,12 @@
             "value" : "pt"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pt"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -972,6 +1038,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ""
@@ -1061,6 +1133,12 @@
             "value" : ""
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1143,6 +1221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カラー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "색상"
           }
         },
         "nl" : {
