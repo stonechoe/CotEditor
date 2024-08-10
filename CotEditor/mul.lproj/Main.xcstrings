@@ -53,6 +53,12 @@
             "value" : "単語を選択"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "단어 선택"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "等幅"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고정폭"
           }
         },
         "nl" : {
@@ -221,6 +233,12 @@
             "value" : "フルスクリーンにする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전체화면 시작"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -303,6 +321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スペルと文法"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "맞춤법 및 문법"
           }
         },
         "nl" : {
@@ -389,6 +413,12 @@
             "value" : "読み上げを停止"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "말하기 중단"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +501,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自動変換"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대체"
           }
         },
         "nl" : {
@@ -557,6 +593,12 @@
             "value" : "URLデコード"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL 디코드"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カスタム…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용자 설정..."
           }
         },
         "nl" : {
@@ -725,6 +773,12 @@
             "value" : "インデント"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -807,6 +861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "読み上げを開始"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "말하기 시작"
           }
         },
         "nl" : {
@@ -977,6 +1037,12 @@
             "value" : "すべてを手前に移動"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두 앞으로 가져오기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1059,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スペルと一緒に文法をチェック"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "맞춤법 및 문법 검사"
           }
         },
         "nl" : {
@@ -1145,6 +1217,12 @@
             "value" : "すべて置換"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두 대치"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1227,6 +1305,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ハイライトを解除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강조 해제"
           }
         },
         "nl" : {
@@ -1313,6 +1397,12 @@
             "value" : "向き"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배치"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1389,6 +1479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택"
           }
         },
         "nl" : {
@@ -1475,6 +1571,12 @@
             "value" : "引用符を置き換える"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인용 부호 대치"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1557,6 +1659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "左から右"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "왼쪽에서 오른쪽"
           }
         },
         "nl" : {
@@ -1643,6 +1751,12 @@
             "value" : "クイックアクションを表示…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "빠른 동작 보기..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1725,6 +1839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テーマ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "테마"
           }
         },
         "nl" : {
@@ -1811,6 +1931,12 @@
             "value" : "選択部分を囲む"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 부분 감싸기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1890,6 +2016,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "8"
@@ -1977,6 +2109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "引用符をまっすぐにする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인용 부호 펴기"
           }
         },
         "nl" : {
@@ -2147,6 +2285,12 @@
             "value" : "入力中にスペルをチェック"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "입력할 때 맞춤법 검사"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2229,6 +2373,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "インスペクタ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인스펙터"
           }
         },
         "nl" : {
@@ -2315,6 +2465,12 @@
             "value" : "スニペットを挿入"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상용구 삽입"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2397,6 +2553,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウインドウ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "윈도우"
           }
         },
         "nl" : {
@@ -2483,6 +2645,12 @@
             "value" : "しまう"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최소화"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2565,6 +2733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウインドウ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "윈도우"
           }
         },
         "nl" : {
@@ -2651,6 +2825,12 @@
             "value" : "メインメニュー"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메인 메뉴"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2730,6 +2910,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditor"
@@ -2819,6 +3005,12 @@
             "value" : "CotEditor"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2901,6 +3093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditorについて"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor에 관하여"
           }
         },
         "nl" : {
@@ -2987,6 +3185,12 @@
             "value" : "開く…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "열기..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3069,6 +3273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "閉じる"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닫기"
           }
         },
         "nl" : {
@@ -3155,6 +3365,12 @@
             "value" : "保存"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3237,6 +3453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ページ設定…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "페이지 설정..."
           }
         },
         "nl" : {
@@ -3323,6 +3545,12 @@
             "value" : "プリント…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프린트..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3405,6 +3633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "別名で保存…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음으로 저장..."
           }
         },
         "nl" : {
@@ -3491,6 +3725,12 @@
             "value" : "ファイル"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "찾기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3573,6 +3813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "新規"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "신규"
           }
         },
         "nl" : {
@@ -3659,6 +3905,12 @@
             "value" : "ファイル"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파일"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3741,6 +3993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ヘルプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
           }
         },
         "nl" : {
@@ -3827,6 +4085,12 @@
             "value" : "ヘルプ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3909,6 +4173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditorヘルプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor 도움말"
           }
         },
         "nl" : {
@@ -3995,6 +4265,12 @@
             "value" : "最後に保存した状態に戻す"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장 시점으로 복귀"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4077,6 +4353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最近使った項目を開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최근 사용 열기"
           }
         },
         "nl" : {
@@ -4163,6 +4445,12 @@
             "value" : "最近使った項目を開く"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "최근 사용 열기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4245,6 +4533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "メニューを消去"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메뉴 지우기"
           }
         },
         "nl" : {
@@ -4331,6 +4625,12 @@
             "value" : "設定…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4413,6 +4713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "サービス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서비스"
           }
         },
         "nl" : {
@@ -4499,6 +4805,12 @@
             "value" : "サービス"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서비스"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4581,6 +4893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditorを非表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor 가리기"
           }
         },
         "nl" : {
@@ -4667,6 +4985,12 @@
             "value" : "CotEditorを終了"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor 종료"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4749,6 +5073,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ほかを非表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기타 가리기"
           }
         },
         "nl" : {
@@ -4835,6 +5165,12 @@
             "value" : "すべてを表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4917,6 +5253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복사"
           }
         },
         "nl" : {
@@ -5003,6 +5345,12 @@
             "value" : "取り消し"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실행 취소"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5085,6 +5433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カット"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오려두기"
           }
         },
         "nl" : {
@@ -5171,6 +5525,12 @@
             "value" : "編集"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "편집"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5253,6 +5613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "削除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "삭제"
           }
         },
         "nl" : {
@@ -5339,6 +5705,12 @@
             "value" : "テーマ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "테마"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5421,6 +5793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "編集"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "편집"
           }
         },
         "nl" : {
@@ -5507,6 +5885,12 @@
             "value" : "ペースト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "붙여넣기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5589,6 +5973,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "すべてを選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두 선택"
           }
         },
         "nl" : {
@@ -5675,6 +6065,12 @@
             "value" : "やり直し"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실행 복귀"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5757,6 +6153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "拡大/縮小"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확대/축소"
           }
         },
         "nl" : {
@@ -5843,6 +6245,12 @@
             "value" : "フォーマット"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "포맷"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5925,6 +6333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フォーマット"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "포맷"
           }
         },
         "nl" : {
@@ -6011,6 +6425,12 @@
             "value" : "行を折り返す"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 바꾸기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6093,6 +6513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "改行コード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄바꿈"
           }
         },
         "nl" : {
@@ -6179,6 +6605,12 @@
             "value" : "改行コード"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄바꿈"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6261,6 +6693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テキストエンコーディング"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 인코딩"
           }
         },
         "nl" : {
@@ -6347,6 +6785,12 @@
             "value" : "テキストエンコーディング"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 인코딩"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6429,6 +6873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "シンタックス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구문"
           }
         },
         "nl" : {
@@ -6515,6 +6965,12 @@
             "value" : "シンタックス"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구문"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6597,6 +7053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보기"
           }
         },
         "nl" : {
@@ -6683,6 +7145,12 @@
             "value" : "行番号を表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 번호 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6765,6 +7233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보기"
           }
         },
         "nl" : {
@@ -6851,6 +7325,12 @@
             "value" : "ステータスバーを表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상태 바 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6933,6 +7413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "エディタの不透明度…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "편집기 불투명도 변경..."
           }
         },
         "nl" : {
@@ -7019,6 +7505,12 @@
             "value" : "小さく"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "축소"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7101,6 +7593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "大きく"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확대"
           }
         },
         "nl" : {
@@ -7187,6 +7685,12 @@
             "value" : "フォント"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서체"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7269,6 +7773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フォント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서체"
           }
         },
         "nl" : {
@@ -7355,6 +7865,12 @@
             "value" : "フォントパネルを表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서체 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7439,6 +7955,12 @@
             "value" : "右へシフト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오른쪽으로 이동"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7521,6 +8043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "左へシフト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "왼쪽으로 이동"
           }
         },
         "nl" : {
@@ -7691,6 +8219,12 @@
             "value" : "検索"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "찾기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7773,6 +8307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "書類情報"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문서 인스펙터"
           }
         },
         "nl" : {
@@ -7859,6 +8399,12 @@
             "value" : "デフォルトに戻す"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본값으로 재설정"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7941,6 +8487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テキスト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트"
           }
         },
         "nl" : {
@@ -8027,6 +8579,12 @@
             "value" : "テキスト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8109,6 +8667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "全角英数にする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ASCII를 전각 ASCII로"
           }
         },
         "nl" : {
@@ -8195,6 +8759,12 @@
             "value" : "半角英数にする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전각 ASCII를 ASCII로"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8277,6 +8847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ひらがなをカタカナにする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "히라가나를 가타카나로"
           }
         },
         "nl" : {
@@ -8363,6 +8939,12 @@
             "value" : "カタカナをひらがなにする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카타카나를 히라가나로"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8445,6 +9027,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unicode正規化"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유니코드 정규화"
           }
         },
         "nl" : {
@@ -8531,6 +9119,12 @@
             "value" : "Unicode正規化"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유니코드 정규화"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8613,6 +9207,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ツールバーを非表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도구 막대 숨기기"
           }
         },
         "nl" : {
@@ -8699,6 +9299,12 @@
             "value" : "ツールバーをカスタマイズ…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도구 막대 사용자화..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8781,6 +9387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スクリプト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크립트"
           }
         },
         "nl" : {
@@ -8867,6 +9479,12 @@
             "value" : "スクリプト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크립트"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8949,6 +9567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "AppleScript用語説明"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppleScript 디렉토리"
           }
         },
         "nl" : {
@@ -9035,6 +9659,12 @@
             "value" : "バックスラッシュを入力"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "역슬래시 삽입"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9117,6 +9747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "半角円マークを入力"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엔화 기호 삽입"
           }
         },
         "nl" : {
@@ -9203,6 +9839,12 @@
             "value" : "カラーコードを編集…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "색상 코드 편집..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9285,6 +9927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コンソール"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "콘솔"
           }
         },
         "nl" : {
@@ -9371,6 +10019,12 @@
             "value" : "警告"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "경고"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9453,6 +10107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ナビゲーションバーを表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색 바 보기"
           }
         },
         "nl" : {
@@ -9539,6 +10199,12 @@
             "value" : "アンチエイリアス"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안티앨리어싱"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9621,6 +10287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ページガイドを表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "페이지 가이드 보기"
           }
         },
         "nl" : {
@@ -9707,6 +10379,12 @@
             "value" : "不可視文字を表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보이지 않는 문자 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9789,6 +10467,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "エディタを分割"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "편집기 분할"
           }
         },
         "nl" : {
@@ -9875,6 +10559,12 @@
             "value" : "フォーカスを次の分割エディタへ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음 분할 편집기에 포커스"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9957,6 +10647,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フォーカスを前の分割エディタへ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이전 분할 편집기에 포커스"
           }
         },
         "nl" : {
@@ -10043,6 +10739,12 @@
             "value" : "分割エディタを閉じる"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "분할 편집기 닫기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10125,6 +10827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "リリースノート"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "릴리즈 노트"
           }
         },
         "nl" : {
@@ -10211,6 +10919,12 @@
             "value" : "選択部分を囲む"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 부분 감싸기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10293,6 +11007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "変換"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "변환"
           }
         },
         "nl" : {
@@ -10379,6 +11099,12 @@
             "value" : "重複を削除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중복 삭제"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10463,6 +11189,12 @@
             "value" : "不具合を報告"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이슈 보고"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10539,6 +11271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "選択"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택"
           }
         },
         "nl" : {
@@ -10625,6 +11363,12 @@
             "value" : "置換"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대치"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10707,6 +11451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "行"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄"
           }
         },
         "nl" : {
@@ -10793,6 +11543,12 @@
             "value" : "縦書き"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "세로"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10875,6 +11631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "常に一番上に表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상단에 띄우기"
           }
         },
         "nl" : {
@@ -10961,6 +11723,12 @@
             "value" : "スマートダッシュ記号"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스마트 대시"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11043,6 +11811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "右から左"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오른쪽에서 왼쪽"
           }
         },
         "nl" : {
@@ -11129,6 +11903,12 @@
             "value" : "角括弧"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대괄호"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11211,6 +11991,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "新規ウインドウ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새로운 윈도우"
           }
         },
         "nl" : {
@@ -11297,6 +12083,12 @@
             "value" : "行を選択"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 선택"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11379,6 +12171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditorの新機能"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor의 변경사항"
           }
         },
         "nl" : {
@@ -11465,6 +12263,12 @@
             "value" : "タブ幅"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기 크기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11547,6 +12351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コメント解除"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주석 해제"
           }
         },
         "nl" : {
@@ -11633,6 +12443,12 @@
             "value" : "全角にする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "반각을 전각으로"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11715,6 +12531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スニペットを挿入"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상용구 삽입"
           }
         },
         "nl" : {
@@ -11801,6 +12623,12 @@
             "value" : "行に移動…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 번호로 이동..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11883,6 +12711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "インデントをスペースに変換"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기를 스페이스로 변환"
           }
         },
         "nl" : {
@@ -11969,6 +12803,12 @@
             "value" : "検索…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "찾기..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12051,6 +12891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コメント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주석"
           }
         },
         "nl" : {
@@ -12137,6 +12983,12 @@
             "value" : "スネークケースにする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스네이크 케이스로 만들기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12221,6 +13073,12 @@
             "value" : "インラインコメントアウト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인라인 주석"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12300,6 +13158,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "4"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "4"
@@ -12389,6 +13253,12 @@
             "value" : "丸括弧"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소괄호"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12471,6 +13341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditor Webサイト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor 웹사이트"
           }
         },
         "nl" : {
@@ -12557,6 +13433,12 @@
             "value" : "スピーチ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "말하기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12639,6 +13521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "アウトライン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개요"
           }
         },
         "nl" : {
@@ -12725,6 +13613,12 @@
             "value" : "カスタム…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용자 설정..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12807,6 +13701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自動変換を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대체 보기"
           }
         },
         "nl" : {
@@ -12893,6 +13793,12 @@
             "value" : "変換"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "변환"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12975,6 +13881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "複数置換"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다중 대치"
           }
         },
         "nl" : {
@@ -13061,6 +13973,12 @@
             "value" : "行末の空白を削除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "끝자리 공백 다듬기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13145,6 +14063,12 @@
             "value" : "すべて検索"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두 찾기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13227,6 +14151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "書類を今すぐチェック"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지금 문서 검사"
           }
         },
         "nl" : {
@@ -13397,6 +14327,12 @@
             "value" : "インデントにスペースを使用"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기에 스페이스 사용"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13481,6 +14417,12 @@
             "value" : "選択部分を検索に使用"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 부분으로 찾기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13563,6 +14505,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文章の方向"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쓰기 방향"
           }
         },
         "nl" : {
@@ -13679,6 +14627,12 @@
             "value" : "スピーチ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "말하기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13761,6 +14715,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "インスペクタを表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인스펙터 보기"
           }
         },
         "nl" : {
@@ -13847,6 +14807,12 @@
             "value" : "方向"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "방향"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13931,6 +14897,12 @@
             "value" : "不具合レポートを作成"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이슈 보고서 생성"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14013,6 +14985,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "リッチテキストとしてコピー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "리치 텍스트로 복사"
           }
         },
         "nl" : {
@@ -14183,6 +15161,12 @@
             "value" : "すべてハイライト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모두 강조"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14297,6 +15281,12 @@
             "value" : "横書き"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "가로"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14379,6 +15369,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "行"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄"
           }
         },
         "nl" : {
@@ -14465,6 +15461,12 @@
             "value" : "検索"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "찾기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14547,6 +15549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スペルを自動的に修正"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "맞춤법 자동 수정"
           }
         },
         "nl" : {
@@ -14633,6 +15641,12 @@
             "value" : "置換して次を検索"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대치하고 다음 찾기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14715,6 +15729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "選択部分を置換に使用"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 부분으로 대치"
           }
         },
         "nl" : {
@@ -14801,6 +15821,12 @@
             "value" : "語頭を大文字にする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대문자화"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14885,6 +15911,12 @@
             "value" : "コメント状態を変更"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주석 토글"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14967,6 +15999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "条件で並び替え…"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "패턴으로 정렬..."
           }
         },
         "nl" : {
@@ -15083,6 +16121,12 @@
             "value" : "CotEditorスクリプトガイド"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor 스크립트 가이드"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15165,6 +16209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "シャッフル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "섞기"
           }
         },
         "nl" : {
@@ -15251,6 +16301,12 @@
             "value" : "行を複製"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 복제"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15333,6 +16389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文章の方向"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쓰기 방향"
           }
         },
         "nl" : {
@@ -15419,6 +16481,12 @@
             "value" : "正確にペースト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정확하게 붙여넣기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15501,6 +16569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フォントタイプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서체 유형"
           }
         },
         "nl" : {
@@ -15587,6 +16661,12 @@
             "value" : "キャメルケースにする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카멜 케이스로 만들기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15669,6 +16749,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "次を検索"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다음 찾기"
           }
         },
         "nl" : {
@@ -15755,6 +16841,12 @@
             "value" : "複数置換を管理…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다중 대치 관리..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -15837,6 +16929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "二重引用符"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "큰 인용 부호"
           }
         },
         "nl" : {
@@ -15923,6 +17021,12 @@
             "value" : "複数置換"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다중 대치"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16005,6 +17109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "CotEditorスクリプトガイド"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CotEditor 스크립트 가이드"
           }
         },
         "nl" : {
@@ -16091,6 +17201,12 @@
             "value" : "スニペットを編集…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스니펫 편집..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16175,6 +17291,12 @@
             "value" : "並び替え"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정렬"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16257,6 +17379,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "選択部分へジャンプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "선택 부분으로 이동"
           }
         },
         "nl" : {
@@ -16427,6 +17555,12 @@
             "value" : "テキストを置換"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 대치"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16595,6 +17729,12 @@
             "value" : "インデントをタブに変換"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기를 탭으로 변환"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16677,6 +17817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "単語入力補完"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "완성"
           }
         },
         "nl" : {
@@ -16763,6 +17909,12 @@
             "value" : "スマートコピー/ペースト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스마트 복사하기/붙여넣기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16847,6 +17999,12 @@
             "value" : "インデントガイドを表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기 가이드 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16926,6 +18084,12 @@
           }
         },
         "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2"
+          }
+        },
+        "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "2"
@@ -17015,6 +18179,12 @@
             "value" : "新規書類"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새로운 문서"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17097,6 +18267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "標準"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "표준"
           }
         },
         "nl" : {
@@ -17183,6 +18359,12 @@
             "value" : "スペルと文法"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "맞춤법"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17265,6 +18447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "大文字にする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대문자로 만들기"
           }
         },
         "nl" : {
@@ -17351,6 +18539,12 @@
             "value" : "行を削除"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 삭제"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17433,6 +18627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "半角にする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "전각을 반각으로"
           }
         },
         "nl" : {
@@ -17519,6 +18719,12 @@
             "value" : "高度な文字カウント…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고급 문자 개수..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17601,6 +18807,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "iPhoneまたはiPadから挿入"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone 또는 iPad에서 삽입"
           }
         },
         "nl" : {
@@ -17687,6 +18899,12 @@
             "value" : "一重引用符"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "작은 인용 부호"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17769,6 +18987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "インスペクタ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인스펙터"
           }
         },
         "nl" : {
@@ -17855,6 +19079,12 @@
             "value" : "スマート引用符"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스마트 인용 부호"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17937,6 +19167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "行を結合"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "줄 합치기"
           }
         },
         "nl" : {
@@ -18023,6 +19259,12 @@
             "value" : "共有…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공유..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18105,6 +19347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文字情報を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문자 조사"
           }
         },
         "nl" : {
@@ -18191,6 +19439,12 @@
             "value" : "Unicodeコードポイントで入力…"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unicode Code Point로 삽입..."
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18273,6 +19527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スクリプトについて"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스크립팅에 관하여"
           }
         },
         "nl" : {
@@ -18359,6 +19619,12 @@
             "value" : "ブロックコメントアウト"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주석 블록"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18443,6 +19709,12 @@
             "value" : "分割エディタを縦に配置"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "편집기 세로로 쌓기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18525,6 +19797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テキストを置き換える"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "텍스트 대치"
           }
         },
         "nl" : {
@@ -18695,6 +19973,12 @@
             "value" : "スペルと文法を表示"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "맞춤법 및 문법 보기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18777,6 +20061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "リガチャ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "합자"
           }
         },
         "nl" : {
@@ -18863,6 +20153,12 @@
             "value" : "新規タブ"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새로운 탭"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18945,6 +20241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "前を検索"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이전 찾기"
           }
         },
         "nl" : {
@@ -19031,6 +20333,12 @@
             "value" : "パスカルケースにする"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파스칼 케이스로 만들기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19113,6 +20421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "タブ幅"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기 크기"
           }
         },
         "nl" : {
@@ -19283,6 +20597,12 @@
             "value" : "波括弧"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중괄호"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19365,6 +20685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "日本語テキスト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일본어 텍스트"
           }
         },
         "nl" : {
@@ -19451,6 +20777,12 @@
             "value" : "URLエンコード"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL 인코드"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19533,6 +20865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自動変換"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대체"
           }
         },
         "nl" : {
@@ -19619,6 +20957,12 @@
             "value" : "インデント"
           }
         },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "들여쓰기"
+          }
+        },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19701,6 +21045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コメント"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주석"
           }
         },
         "nl" : {
@@ -19815,6 +21165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "小文字にする"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소문자로 만들기"
           }
         },
         "nl" : {
